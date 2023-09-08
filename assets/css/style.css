@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    margin: 15rem 0 0;
+    font-size: 50px;
+    color: green;
+}
+#result_dadi, #summary_dadi , #check_btn, #check_input, #palindroma_result {
+    display: flex;
+    justify-content: center;
+    margin: 10rem 0 0;
+    font-size: 45px;
+}
+#check_btn, #check_input, #palindroma_result  {
+    text-align: center;
+    margin: 1rem auto;
+    
+}
+#summary_dadi{
+    color: rgb(89, 0, 255);
+}
